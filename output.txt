@@ -1,0 +1,28 @@
+You have no integers after your prefix operator. You need two integer arguments on line 1:
+You have no integers after your prefix operator. You need two integer arguments on line 2:
+You have no integers after your prefix operator. You need two integer arguments on line 3:
+You have no integers after your prefix operator. You need two integer arguments on line 4:
+You have no integers after your prefix operator. You need two integer arguments on line 5:
+You have no integers after your prefix operator. You need two integer arguments on line 6:
+You have no integers after your prefix operator. You need two integer arguments on line 7:
+You have input an invalid prefix operator on line 8:
+You have no integers after your prefix operator. You need two integer arguments on line 9:
+You have no integers after your prefix operator. You need two integer arguments on line 10:
+You have no integers after your prefix operator. You need two integer arguments on line 11:
+You have no integers after your prefix operator. You need two integer arguments on line 12:
+You have no integers after your prefix operator. You need two integer arguments on line 13:
+You have no integers after your prefix operator. You need two integer arguments on line 14:
+You have no integers after your prefix operator. You need two integer arguments on line 1:
+You have no integers after your prefix operator. You need two integer arguments on line 2:
+You have no integers after your prefix operator. You need two integer arguments on line 3:
+You have no integers after your prefix operator. You need two integer arguments on line 4:
+You have no integers after your prefix operator. You need two integer arguments on line 5:
+You have no integers after your prefix operator. You need two integer arguments on line 6:
+You have no integers after your prefix operator. You need two integer arguments on line 7:
+You have input an invalid prefix operator on line 8:
+You have no integers after your prefix operator. You need two integer arguments on line 9:
+You have no integers after your prefix operator. You need two integer arguments on line 10:
+You have no integers after your prefix operator. You need two integer arguments on line 11:
+You have no integers after your prefix operator. You need two integer arguments on line 12:
+You have no integers after your prefix operator. You need two integer arguments on line 13:
+You have no integers after your prefix operator. You need two integer arguments on line 14:
